@@ -2,3 +2,5 @@
 /node_modules
 /.pnp
 .pnp.js
+
+serveless config credentials --provider aws --key AKIA3NWSDKRT45CQU5FD --secret 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
